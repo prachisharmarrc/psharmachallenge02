@@ -10,7 +10,7 @@ If you enjoy these please consider signing up for [exercism.io](http://exercism.
 
 To being you will need to clone this repository from the command prompt. The folder you are in when you run the clone command will be where the files end up.
 
-    git clone https://github.com/StungEye-RRC/OO-Ruby-Challenges.git
+   i c
 
 Each of the folders in this repository contains a README file and a testing file. Read **both** the README and the test files for a description of what you need to implement. Your implementation code should go into a ruby file that matches the name of the test file, but with the `_test` portion of the filename remove. For example, in challenge question 01 the test file is named `hello_world_test.rb` so the implementation should go in a `hello_world.rb` file.
 
